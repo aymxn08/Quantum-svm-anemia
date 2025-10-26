@@ -16,5 +16,4 @@ Classical SVM Accuracy: ~75%
 The quantum approach showed a significant improvement after optimizing feature maps and balancing the dataset.
 Open the notebook in Google Colab or Jupyter
 Install dependencies:
-python
-
+python Copy Edit !pip install qiskit==0.43.0 !pip install qiskit-machine-learning==0.5.0 !pip install imbalanced-learn Upload the anemia.csv file Run each cell step-by-step ""I built this as part of a hackathon to explore how quantum computing can create real impact, especially in health prediction systems for underserved regions. It’s a small step, but one that blends technology with purpose.
