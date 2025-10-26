@@ -17,16 +17,4 @@ The quantum approach showed a significant improvement after optimizing feature m
 Open the notebook in Google Colab or Jupyter
 Install dependencies:
 python
-Copy
-Edit
-!pip install qiskit==0.43.0
-!pip install qiskit-machine-learning==0.5.0
-!pip install imbalanced-learn
-Upload the anemia.csv file
-Run each cell step-by-step
-""I built this as part of a hackathon to explore how quantum computing can create real impact, especially in health prediction systems for underserved regions. It’s a small step, but one that blends technology with purpose.""
-personal detials{Naveed Ahamed
-B.Tech AI & Data Science (3rd year)
-GitHub: navvwd
-Email: naveed24ahm.1@gmail.com}
-Assalamu Alaikum.
+
